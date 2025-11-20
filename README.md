@@ -1,26 +1,56 @@
-# healthcare-ai-lab
+# Healthcare AI Lab
 
 ## Vision  
-To build AI-driven healthcare tools that make medical guidance more accessible, actionable, and intelligent — starting with tools that help individuals make sense of symptoms, prescriptions, and lifestyle changes.
+To revolutionize personal and clinical healthcare with intelligent AI tools — making medical advice, symptom understanding, and drug interactions accessible, reliable, and personalized for everyone.
 
-## This Month / Quarter  
-- MVP: Build a symptom-checker + medicine-interaction module  
-- Get feedback from 10–20 users (friends / family / online)  
-- Deploy a simple web app
+---
+
+## This Month / Quarter Goals  
+- Build MVP: Symptom-checker + Medicine-Interaction module  
+- Deploy a basic web app for testing  
+- Gather feedback from at least 10 real users (friends, family, online)
+
+---
 
 ## Roadmap  
-- **3 months**: MVP, feedback, iterate  
-- **6 months**: Add predictive risk analysis + user accounts  
-- **12 months**: Launch paid version + onboard early users  
+| Timeline | Goals |
+|---|---|
+| **3 Months** | MVP ready, user testing, iterate on feedback |
+| **6 Months** | Add risk-prediction analytics + user accounts |
+| **12 Months** | Launch a paid version + onboard early subscribers |
 
-## Daily Log (Starting Nov 26)  
-| Date       | What I Built | What I Learned | What’s Next |
-|------------|---------------|----------------|-------------|
+---
+
+## Tech Stack  
+- Backend: Python (FastAPI)  
+- Frontend: React / Next.js  
+- AI: OpenAI / HuggingFace LLMs  
+- Database: PostgreSQL / MongoDB  
+- Deployment: AWS / Heroku  
+- Auth: OAuth / JWT  
+
+---
+
+## Daily Log (Starting **26 Nov 2025**)  
+| Date | What I Built | What I Learned | What’s Next |
+|---|---|---|---|
 | 26 Nov 2025 | — | — | — |
-| … | … | … | … |
+| 27 Nov 2025 | — | — | — |
+
+---
 
 ## How to Contribute  
-If you find this project interesting and want to help:  
-- Open an issue  
-- Suggest a feature  
+Interested in helping?  
+- Open issues for feature suggestions  
 - Help with frontend / backend / data  
+- Submit pull requests  
+- Join discussions — I’m always iterating
+
+---
+
+## Contact  
+Email: bhoomigabose@gmail.com
+
+---
+
+
